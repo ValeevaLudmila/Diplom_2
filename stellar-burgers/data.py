@@ -31,7 +31,7 @@ class TestData:
     EXISTING_USER_NAME = "Existing User"
     
     # Ингредиенты
-    VALID_INGREDIENTS = ["60d3b41abdacab0026a733c6", "609646e4dc916e00276b2870"]
+    VALID_INGREDIENTS = ["61c0c5a71d1f82001bdaaa6d", "61c0c5a71d1f82001bdaaa6f"]
     INVALID_INGREDIENT_HASH = "invalid_hash_12345"
     
     # Для логина с неверными данными
