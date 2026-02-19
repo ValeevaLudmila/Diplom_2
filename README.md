@@ -39,7 +39,7 @@ stellar-burgers/
 │  ├─ test_create_user.py      # Тесты регистрации пользователя
 │  ├─ test_login_user.py       # Тесты логина
 │  ├─ test_create_order.py     # Тесты создания заказов
-│  └─ conftest.py              # Фикстуры для пользователей и токенов
+├─ conftest.py              # Фикстуры для пользователей и токенов
 ├─ data.py                     # Статусы, шаблоны ответов, тестовые данные
 ├─ urls.py                     # API эндпоинты
 ├─ generators.py               # Генерация email, имени и пароля
