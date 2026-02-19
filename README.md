@@ -99,5 +99,3 @@ git fetch origin
 git checkout develop2
 ```
 
-
-Хочешь, чтобы я сделал такой баннер?
